@@ -1,0 +1,21 @@
+.showMenu{
+    position: absolute;
+    width: 100vw;
+    height: 12rem;
+    background-color: #d6e2ee;
+    top: 4.5rem;
+}
+
+.hideMenu {
+    display: none;
+    width: 0;
+    height: 0;
+    /* Agrega otros estilos que necesites */
+}
+.gradient-css{
+    background: #f0e2e3;
+    background: linear-gradient(0deg,#e2e8f0 0%, rgba(0,255,0,0) 50%);
+}
+.z-index-10{
+    z-index: 10;
+}

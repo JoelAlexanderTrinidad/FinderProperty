@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "offer"
+    },
+    {
+        "id": 2,
+        "name": "rent"
+    },
+    {
+        "id": 3,
+        "name": "sale"
+    }
+]
