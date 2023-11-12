@@ -91,4 +91,5 @@ $ sequelize db:seed:all
 ```
 # Demo online
  - Advertencia - el host render puede tardar la primera vez en iniciar, por favor si esto sucede esperar un ratito y recargar la página, luego irá todo normal :)
- - https://property-finder-u6yf.onrender.com
+   * Backend deploy: https://finderpropertiesapi.onrender.com
+   * Frontend deploy: https://property-finder-u6yf.onrender.com
