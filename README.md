@@ -74,6 +74,8 @@ NODE_ENV=development
 PORT=3000
 LOCAL=http://localhost
 ```
+# Postman documentación
+https://documenter.getpostman.com/view/21747316/2s9YeBfuLb
 ## Base de datos
 ***
 ### Crear la base de datos con **migraciones**
