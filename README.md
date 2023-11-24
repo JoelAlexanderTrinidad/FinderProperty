@@ -1,10 +1,11 @@
 # FinderProperty
-> Desarrollado por Joel Alexander Trinidad
+> Desarrollado por Joel Alexander Trinidad | desarrollador fullstack
 ## Indice
  - [Información General](#información-general)
  - [Screenshot](#screenshot)
  - [Dependencias](#dependencias)
  - [Correr la aplicación en forma local](#correr-la-aplicación-en-forma-local)
+ - [Postman documentación](#postman-documentación)
  - [Base de datos](#base-de-datos)
  - [Demo online](#demo-online)
 
